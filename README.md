@@ -1,18 +1,23 @@
-# seo-refactor
 
-# Title
+
+# Horiseon
 
 ## Table of Contents
 1. [Description](#description)
-2. [Usage](#usage)
-3. [Visuals](#visuals)
+2. [Visuals](#visuals)
+3. [Resources]
 
 ## Description
 
 
 
 ## Visuals
-![cost](./Develop/assets/images/cost-management.png)
+![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
+
+## Resources
+- [live cite]()
+- [Respository](seo)
+
 
 ```html
 <p>
